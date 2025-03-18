@@ -7,7 +7,7 @@ This Python script retrieves and displays prayer times from the Aladhan API. It 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abdbbdii/prayer-time-tracker.git
+git clone https://github.com/abdxdev/prayer-time-tracker.git
 ```
 
 2. Install the required dependencies:
@@ -42,4 +42,4 @@ python prayer_time_tracker.py
 
 ## License
 
-This project is licensed under the [BSD License](https://github.com/abdbbdii/prayer_timer/blob/main/LICENSE).
+This project is licensed under the [BSD License](https://github.com/abdxdev/prayer_timer/blob/main/LICENSE).
